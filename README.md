@@ -2,7 +2,7 @@
 This is a sample package to learn how to publish packages in npm.
 ## Installation
 ```bash
-npm install @USERNAME/demo-package
+npm install @sylvesteroumaouma/demo-package
 ```
 ## Usage
 ```js
