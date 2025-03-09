@@ -6,5 +6,6 @@ npm install @sylvesteroumaouma/demo-package
 ```
 ## Usage
 ```js
-import { sum } from '@sylvesteroumaouma/demo-package'
+import { sum, multiply } from '@sylvesteroumaouma/demo-package'
 console.log(sum(1, 2))
+console.log(multiply(2, 3))
